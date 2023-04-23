@@ -17,7 +17,7 @@ __Примерный результат работы консольного пр
 ---
 ## Немного о примерной реализации
 1. *Структуры данных:* \
-'''c++
+```c++
 struct Point {
 	double x_ = 0;
 	double y_ = 0;
@@ -35,4 +35,4 @@ struct Triangle {
 		vertices.push_back(B);
 		vertices.push_back(C);
 	}
-}; '''
+}; ```
