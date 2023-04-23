@@ -12,4 +12,4 @@ x2 y2 \
 ... \
 xn yn \
 __Результат работы консольного приложения:__ \
-![example](Example.png)
+![example](Example.PNG)
