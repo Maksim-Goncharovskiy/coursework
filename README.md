@@ -35,4 +35,4 @@ struct Triangle {
 		vertices.push_back(B);
 		vertices.push_back(C);
 	}
-};
+}; '''
