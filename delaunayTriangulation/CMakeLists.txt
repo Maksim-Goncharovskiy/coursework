@@ -1,0 +1,1 @@
+add_library(delaunay_lib delaunay.cpp delaunay.hpp)
